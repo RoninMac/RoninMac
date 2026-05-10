@@ -6,7 +6,7 @@
 
 ### A Computer Science student looking to grow and learn as a problem solver. I am passionate about discovering new things, meeting new people, and offering solutions to real-world problems.
 - 🌱 I’m currently learning Project Management and Machine Learning
-- 🔭 I’m currently working on graduating from school
+- 🔭 I’m currently working on graduating from school and my thesis on Workflow Management Systems
 - 😄 Pronouns: he/him
 - 📫 How to reach me:
 <div align="center">
@@ -40,8 +40,9 @@
 <br>
 
 <div align=center>
-  
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=RoninMac&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Ronin Mac's" />
+
+
  
 </div>
 
