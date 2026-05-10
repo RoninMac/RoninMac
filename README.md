@@ -24,14 +24,25 @@
   </a>
 </div>
 
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,nodejs,react,mongodb,postgres,php,mysql,matlab,anaconda,arduino,bash" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,figma,octave,laravel,django,latex,maven,npm,r,scala,tensorflow" />
+</p>
+
+<hr>
+
 ## ⚡️ Stats
 
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=RoninMac&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Ronin Mac's GitHub Stats" />
+  
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=RoninMac&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Ronin Mac's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=RoninMac&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="RoninMac's Most Used Languages" />
+ 
 </div>
 
 <hr>
