@@ -10,7 +10,7 @@
 - 😄 Pronouns: he/him
 - 📫 How to reach me:
 <div align="center">
-  <a href="mailto:macroninpalvarico@gmail.com">
+  <a href="mailto:macroninpalvarico@gmail.com?subject=Inquiry regarding Internship">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
   <a href="http://www.linkedin.com/in/mac-ronin-alvarico-8a1415409" target="_blank">
