@@ -16,7 +16,7 @@
   <a href="http://www.linkedin.com/in/mac-ronin-alvarico-8a1415409" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://orcid.org/0009-0002-4487-2188)" target="_blank">
+  <a href="https://orcid.org/0009-0002-4487-2188" target="_blank">
     <img src="https://img.shields.io/badge/ORCID-white?style=for-the-badge&logo=ORCID&logoSize=auto&labelColor=FFFFF"/>
   </a>
   <a href="https://www.facebook.com/macronin.alvarico/" target="_blank">
